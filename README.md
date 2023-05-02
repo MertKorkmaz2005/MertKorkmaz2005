@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Korkmaz</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertkorkmaz2005&label=Profile%20views&color=0e75b6&style=flat" alt="mertkorkmaz2005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertkorkmaz2005" alt="mertkorkmaz2005" /></a> </p>
-
 - 🔭 I’m currently working on different **sites**
 
 - 🌱 I’m currently learning **JavaScript HTML CSS SCSS**
